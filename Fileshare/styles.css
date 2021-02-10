@@ -1,0 +1,88 @@
+@font-face
+    {
+        font-family: 'avenir';
+        src: url(fonts/AvenirNextLTPro-Regular.otf);
+        font-style: normal;
+        font-weight: 100;
+    }
+
+body{
+    background-color: #ffa343;
+}
+
+h1{
+    text-align: center;
+    font-family: avenir; 
+    font-weight: 100;
+    font-size: 4em;
+}
+
+h2{
+    font-family: avenir;
+    text-align: center;
+}
+
+p{
+    font-family: avenir;
+}
+
+.username{
+    font-family: avenir;
+    text-align: center;
+}
+
+.action-buttons{
+    text-align: center;
+}
+
+input[type = "text"]{
+    font-family: avenir;
+    
+}
+
+input{
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+}
+
+input:focus{
+    outline: none;
+}
+
+button{
+    border: none;
+    border-radius: 2px;
+    background-color: rgb(7, 130, 230);
+    color: white;
+    font-family: avenir;
+    padding: 6px 14px;
+    text-align: center;
+}
+
+input[type="radio"]{
+    text-align: center;
+    font-family: avenir;
+}
+
+input[type="file"]{
+    border: none;
+    border-radius: 2px;
+    background-color: rgb(7, 130, 230);
+    color: white;
+    font-family: avenir;
+    padding: 6px 14px;
+    text-align: center;
+
+}
+
+.center{
+    text-align: center;
+    margin: 10px auto 20px;
+    display: block;
+}
+
+share{
+    font-family: avenir;
+    text-align: center;
+}
