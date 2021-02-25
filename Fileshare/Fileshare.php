@@ -8,11 +8,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <link rel="stylesheet" href="styles.css">
-    <title>Filezilla 2</title>
+    <title>FileZara</title>
 </head>
 <body>
-    <h1>Filezilla 2! Get sharing!</h1>
-    <img src="FileZilla2.png" alt="FileZilla2 logo" class = "center" style="width:200px;height:200px;">
+    <h1>FileZara</h1>
+    <img src="FileZara.png" alt="FileZara logo" class = "center" style="width:200px;height:200px;">
     <form>
     <div class = "username">
     <h2>Enter your username to get started.</h2><br>

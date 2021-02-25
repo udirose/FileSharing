@@ -9,7 +9,7 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <link rel="stylesheet" href="styles.css">
-    <title>Filezilla 2</title>
+    <title>FileZara</title>
 </head>
 <body>
     <?php
